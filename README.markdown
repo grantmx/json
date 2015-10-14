@@ -153,7 +153,7 @@ Plus all of the custom fields associated with that channel
 
 #### json:entries Parameters
 
-See [channel:entries parameters](http://expressionengine.com/user_guide/modules/channel/parameters.html).
+See [channel:entries parameters](https://ellislab.com/expressionengine/user-guide/channel/channel_entries.html#parameters).
 
 ##### `show_categories="yes"`
 
